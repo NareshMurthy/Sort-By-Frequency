@@ -1,6 +1,6 @@
 {
   "name": "sortbyfrequency",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Sort an array by Frequency of the elements ",
   "main": "index.js",
   "keywords": [
