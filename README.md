@@ -1,14 +1,23 @@
 # Sort an array by the frequency of elements
 
-Installing
-`npm i sort-by-frequency`<br>
+### Installing
 
-Importing
-`import sortByFrequency from 'sort-by-frequency' //ES6`<br>
-`const sortByFrequency = require('sort-by-frequency'); //JS`<br>
+```bash
+npm i sortbyfrequency;
+```
 
-Usage:<br>
-`import sortByFrequency from 'sort-by-frequency' //ES6`<br>
-`const sortByFrequency = require('sort-by-frequency'); //JS`<br>
-`let sorted = sortByFrequency(['a', 'b', 'b', 'c', 'b', 'a'])`<br>
-`console.log(sorted); //['b', 'a', 'c']`<br>
+### Importing
+
+```JavaScript
+import sortByFrequency from 'sortbyfrequency'; //ES6
+const sortByFrequency = require('sortbyfrequency'); //JS
+```
+
+### Usage:
+
+```JavaScript
+import sortByFrequency from 'sortbyfrequency'; //ES6
+const sortByFrequency = require('sortbyfrequency'); //JS
+let sorted = sortByFrequency(['a', 'b', 'b', 'c', 'b', 'a']);
+console.log(sorted); //['b', 'a', 'c']
+```
