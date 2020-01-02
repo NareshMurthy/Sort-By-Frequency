@@ -1,12 +1,15 @@
 {
   "name": "sortbyfrequency",
-  "version": "1.0.5",
-  "description": "Sort an array by Frequency of the elements ",
-  "main": "index.js",
+  "version": "1.0.8",
+  "url": "https://github.com/NareshMurthy/Sort-By-Frequency",
+  "description": "Sort an array based on the Frequency of the elements ",
+  "main": "sort-by-frequency.js",
   "keywords": [
     "npm",
-    "node_modules"
+    "node_modules",
+    "sorting",
+    "frequency"
   ],
   "author": "Naresh",
-  "license": "ISC"
+  "license": "MIT"
 }
