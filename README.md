@@ -1,5 +1,8 @@
 # Sort an array by the frequency of elements
 
+[![License](https://img.shields.io/npm/l/sortbyfrequency.svg?style=for-the-badge)](https://www.npmjs.com/package/sortbyfrequency)
+[![NPM Downloads](https://img.shields.io/npm/dt/sortbyfrequency.svg?style=for-the-badge)](https://www.npmjs.com/package/sortbyfrequency)
+
 ### Installing
 
 ```shell

@@ -1,6 +1,6 @@
 {
   "name": "sortbyfrequency",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "repository": "https://github.com/NareshMurthy/Sort-By-Frequency",
   "description": "Sort an array based on the Frequency of the elements ",
   "main": "sort-by-frequency.js",

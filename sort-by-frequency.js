@@ -9,7 +9,7 @@ const sortbyfrequency = list => {
     if (mapObj[element] === undefined) {
       mapObj[element] = 1;
     } else {
-      mapObj[element] = mapObj[element] += 1;
+      mapObj[element] = mapObj[element] + 1;
     }
   });
 
@@ -30,4 +30,5 @@ const sortbyfrequency = list => {
   });
   return result;
 };
+
 module.exports = sortbyfrequency;
